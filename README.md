@@ -59,9 +59,9 @@ This project provides interns with hands-on experience in leveraging Power BI fo
 
 **Acknowledgments**
 
-We would like to thank the Intern Infotech Virtual Learning Internship Program for the opportunity to work on this project.
+I would like to thank the Intern Infotech Virtual Learning Internship Program for the opportunity to work on this project.
 
 
-For more details or queries, please contact us at lucyadhiambo58@gmail.com.com.
+For more details or queries, please contact me at lucyadhiambo58@gmail.com.com.
 
 Happy analyzing!
