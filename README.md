@@ -57,29 +57,6 @@ Recommendations for hosts and the aggregator platform based on the analysis.
 This project provides interns with hands-on experience in leveraging Power BI for meaningful analysis and insights generation in the competitive domain of hotel aggregator listings. The insights derived from this project can help improve listing quality, optimize pricing strategies, enhance host performance, and boost guest satisfaction.
 
 
-Feel free to contribute, raise issues, or suggest enhancements. Let's work together to make this project a success!
-
-Getting Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/hotel-aggregator-analysis.git
-Navigate to the project directory:
-bash
-Copy code
-cd hotel-aggregator-analysis
-Open the Power BI file:
-Use Power BI Desktop to open and interact with the dashboards.
-Contributing
-We welcome contributions from everyone. Here’s how you can help:
-
-
-Report bugs and issues.
-Suggest new features or improvements.
-Fork the repository, make changes, and submit a pull request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 **Acknowledgments**
 
 We would like to thank the Intern Infotech Virtual Learning Internship Program for the opportunity to work on this project.
